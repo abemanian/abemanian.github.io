@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(151, 9, 9);
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 72px;
+    text-align: center;
+    font-style: italic;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+    font-style: italic;
+}
+h6{
+    font-family: Arial;
+    font-size: 12px;
+    text-align: center;
+}
