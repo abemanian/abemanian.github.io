@@ -1,6 +1,6 @@
 h1 {
     color: rgb(151, 9, 9);
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: "Vollkorn",Helvetica, Arial, sans-serif;
     font-size: 72px;
     text-align: center;
     font-style: italic;
@@ -12,6 +12,13 @@ h2 {
     text-align: center;
     font-style: italic;
 }
+
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 36px;
+    font-style: bold;
+}
+
 h5 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 24px;
@@ -37,8 +44,18 @@ a:hover{
     color: rgb(225, 100, 100);
 }
 
+.in_text{
+    color: rgb(151, 9, 9)
+}
+
 .site_body{
     font-family: Arial, sans-serif;
     text-align: left;
     font-size: 20px;    
+}
+
+ul.in{
+    text-align: inherit;
+    list-style-position: inside;
+    list-style-type: " ➔ "
 }
