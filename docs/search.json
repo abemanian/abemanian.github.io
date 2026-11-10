@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Featured Publications",
+    "section": "",
+    "text": "A full and current list is on Google Scholar.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\nJournal\n\n\n\n\n\n\n\n\n2024\n\n\nInvestigating the spatial accessibility and coverage of the pediatric COVID-19 vaccine: an ecologic study of regional health data\n\n\nBemanian A, Mosser JF\n\n\nVaccines\n\n\n\n\n\n\n2021\n\n\nEcological Study of Variability in the Relationship between Liver Cancer Mortality and Racial Residential Segregation\n\n\nBemanian A, Cassidy LD, Fraser R, Laud PW, Saeian K, Beyer KMM\n\n\nInternational Journal of Environmental Research and Public Health\n\n\n\n\n\n\n2020\n\n\nInvestigating the Trajectory of the COVID-19 Outbreak in Milwaukee County and Projected Effects of Relaxed Distancing\n\n\nBemanian A, Ahn KW, O’Brien M, Rausch DJ, Weston B, Beyer KMM\n\n\nWisconsin Medical Journal\n\n\n\n\n\n\n2019\n\n\nRacial disparities of liver cancer mortality in Wisconsin\n\n\nBemanian A, Cassidy LD, Fraser R, Laud PW, Saeian K, Beyer KMM\n\n\nCancer Causes & Control\n\n\n\n\n\n\n2017\n\n\nMeasures matter: the local exposure/isolation (LEx/Is) metrics and relationships between local-level segregation and breast cancer survival\n\n\nBemanian A, Beyer KMM\n\n\nCancer Epidemiology, Biomarkers & Prevention\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/posts/2026-11-07-welcome/index.html",
+    "href": "blog/posts/2026-11-07-welcome/index.html",
+    "title": "Welcome to ρ = 0",
+    "section": "",
+    "text": "This blog is moving here from WordPress. Future posts will mix research findings, data visualization, and the occasional uncorrelated tangent.\nPosts can contain live R code. A chunk like the one below runs when the post is rendered, and its output is cached so it doesn’t rerun unless the post changes:\nlibrary(ggplot2)\n\nggplot(mtcars, aes(wt, mpg)) +\n  geom_point(colour = \"#970909\") +\n  theme_minimal()\n(Write it as {r} instead of r after the backticks to make it execute.)"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "How do respiratory viruses move between places and populations? Using genomic data we can track transmission chains and then infer how these viruses spread. In particular, I am excited to study how human movement across populations influences the spread of epidemics. This knowledge is important for designing public health interventions to block transmission and construct pathogen surveillance networks to capture genomic and population changes."
+  },
+  {
+    "objectID": "research.html#genomic-epidemiology-and-phylogeography",
+    "href": "research.html#genomic-epidemiology-and-phylogeography",
+    "title": "Research",
+    "section": "",
+    "text": "How do respiratory viruses move between places and populations? Using genomic data we can track transmission chains and then infer how these viruses spread. In particular, I am excited to study how human movement across populations influences the spread of epidemics. This knowledge is important for designing public health interventions to block transmission and construct pathogen surveillance networks to capture genomic and population changes."
+  },
+  {
+    "objectID": "research.html#within-host-viral-dynamics",
+    "href": "research.html#within-host-viral-dynamics",
+    "title": "Research",
+    "section": "Within-host viral dynamics",
+    "text": "Within-host viral dynamics\nMathematical models of viral replication and immune control are exciting tools to describe the course of infections in individuals. Models can additionally be used to predict how infections respond to therapeutics (e.g. mAbs and antivirals) and how pathogens evolve within hosts. My goal is to use these models to understand how respiratory viruses develop novel variants especially under new evolutionary pressures."
+  },
+  {
+    "objectID": "research.html#spatial-epidemiology-of-health-outcomes",
+    "href": "research.html#spatial-epidemiology-of-health-outcomes",
+    "title": "Research",
+    "section": "Spatial epidemiology of health outcomes",
+    "text": "Spatial epidemiology of health outcomes\nSpace and movement imapct the health of individuals and populations by affecting their exposures (e.g. pathogens, environmental factors, social determinants) and physical access to healthcare. My doctoral and residency research training focused on studying geospatial patterns in health outcomes including cancer mortality and vaccination uptake. I continue to be interested in pursuing questions at the intersection of geography and health."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Amin Bemanian, MD PhD",
+    "section": "",
+    "text": "Welcome! I am a pediatric infectious diseases physician at the University of Washington /Seattle Children’s Hospital and a research associate at the Fred Hutchinson Cancer Center in the Schiffer and Bedford labs. My research sits at the intersection of genomic epidemiology, infectious disease modeling, and public health. I study the spread of viruses and other infectious diseases, and my goal is to better understand how pathogens evolve and adapt in response to public health interventions. My work currently is focused on respiratory viruses such as RSV and SARS-CoV-2, and I have previously investigated spatial disparities in health outcomes. Ultimately, my goal as a researcher is to use mathematics and statistics to improve the health of populations, and I am excited to collaborate on projects towards the goal.\nThis site houses much of my research and papers, with links to code where available. Open and reproducible research is very important to me, so please reach out if there are any questions regarding my methods or code. My blog ρ = 0 carries posts regarding data science, statistics, and medicine, that may be “uncorrelated” to my research. Expect anything there, from cool papers I am excited about to using regression models to vent about the Chicago Bulls. Feel free to email me if you have any questions about my work or ideas for collaboration."
+  },
+  {
+    "objectID": "index.html#training",
+    "href": "index.html#training",
+    "title": "Amin Bemanian, MD PhD",
+    "section": "Training",
+    "text": "Training\n\nFellowship (Pediatric Infectious Diseases) - University of Washington / Seattle Children’s Hospital\nResidency (Pediatrics) — University of Washington / Seattle Children’s Hospital\nMD PhD (Public and Community Health) — Medical College of Wisconsin, Medical Scientist Training Program"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome to ρ = 0\n\n\n\nnews\n\n\n\n\nThe blog has moved from WordPress to a Quarto site.\n\n\n\n\n\n\nNov 7, 2026\n\n\nAmin Bemanian\n\n\n\n\n\nNo matching items"
+  }
+]

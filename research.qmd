@@ -1,0 +1,25 @@
+---
+title: "Research"
+---
+
+<!-- Edit these sections freely; each can link to papers, code, or blog posts. -->
+
+## Genomic epidemiology and phylogeography
+
+How do respiratory viruses move between places and populations?
+Using genomic data we can track transmission chains and then infer how these viruses spread. 
+In particular, I am excited to study how human movement across populations influences the spread of epidemics.
+This knowledge is important for designing public health interventions to block transmission and construct pathogen surveillance networks to capture genomic and population changes.
+
+
+## Within-host viral dynamics
+
+Mathematical models of viral replication and immune control are exciting tools to describe the course of infections in individuals.
+Models can additionally be used to predict how infections respond to therapeutics (e.g. mAbs and antivirals) and how pathogens evolve within hosts.
+My goal is to use these models to understand how respiratory viruses develop novel variants especially under new evolutionary pressures.
+
+## Spatial epidemiology of health outcomes
+
+Space and movement imapct the health of individuals and populations by affecting their exposures (e.g. pathogens, environmental factors, social determinants) and physical access to healthcare.
+My doctoral and residency research training focused on studying geospatial patterns in health outcomes including cancer mortality and vaccination uptake.
+I continue to be interested in pursuing questions at the intersection of geography and health.

@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - CNAME
+    - .nojekyll
+    - files/CV_AminBemanian.pdf
+
+website:
+  title: "ρ = 0"
+  site-url: https://www.rhozero.net
+  description: "Amin Bemanian — pediatric infectious diseases, genomic epidemiology, and spatial analysis."
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: blog/index.qmd
+        text: Blog
+      - href: files/CV_AminBemanian.pdf
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/abemanian
+        aria-label: GitHub
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=vbKfGzwAAAAJ&hl=en
+        aria-label: Google Scholar
+      - icon: rss
+        href: blog/index.xml
+        aria-label: Blog RSS feed
+  page-footer:
+    center: "© 2026 Amin Bemanian"
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+    toc: false
+    smooth-scroll: true
+
+# Each post's R code runs only when that post changes; results are cached in _freeze/ (commit it).
+execute:
+  freeze: auto

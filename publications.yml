@@ -1,0 +1,31 @@
+# One entry per paper. `path` is where the title links (DOI, PubMed, or preprint).
+# Replace this example with your real papers.
+- title: "Investigating the spatial accessibility and coverage of the pediatric COVID-19 vaccine: an ecologic study of regional health data"
+  author: "Bemanian A, Mosser JF"
+  journal: "Vaccines"
+  date: 2024-05-15
+  path: https://doi.org/10.3390/vaccines12050545
+
+- title: "Ecological Study of Variability in the Relationship between Liver Cancer Mortality and Racial Residential Segregation"
+  author: "Bemanian A, Cassidy LD, Fraser R, Laud PW, Saeian K, Beyer KMM"
+  journal: "International Journal of Environmental Research and Public Health"
+  date: 2021-09-15
+  path: https://doi.org/10.3390/ijerph18189732
+
+- title: "Investigating the Trajectory of the COVID-19 Outbreak in Milwaukee County and Projected Effects of Relaxed Distancing"
+  author: "Bemanian A, Ahn KW, O'Brien M, Rausch DJ, Weston B, Beyer KMM"
+  journal: "Wisconsin Medical Journal"
+  date: 2020-06-01
+  path: https://wmjonline.org/wp-content/uploads/2020/119/2/Bemanian.pdf
+
+- title: "Racial disparities of liver cancer mortality in Wisconsin"
+  author: "Bemanian A, Cassidy LD, Fraser R, Laud PW, Saeian K, Beyer KMM"
+  journal: "Cancer Causes & Control"
+  date: 2019-09-17
+  path: https://doi.org/10.3390/vaccines12050545
+
+- title: "Measures matter: the local exposure/isolation (LEx/Is) metrics and relationships between local-level segregation and breast cancer survival"
+  author: "Bemanian A, Beyer KMM"
+  journal: "Cancer Epidemiology, Biomarkers & Prevention"
+  date: 2017-04-01
+  path: https://doi.org/10.1158/1055-9965.EPI-16-0926

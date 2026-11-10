@@ -1,0 +1,41 @@
+---
+title: "Amin Bemanian, MD PhD"
+subtitle: "Pediatric infectious diseases · infectious disease modelling · spatial analysis"
+image: files/headshot.png   # add a photo here when you have one
+about:
+  template: trestles
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:bemanian@uw.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/abemanian
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=vbKfGzwAAAAJ&hl=en
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/0000-0003-0296-2345
+    - icon: chat-square-text
+      text: Bluesky
+      href: https://bsky.app/profile/aminsense.bsky.social
+---
+
+Welcome!
+I am a pediatric infectious diseases physician at the University of Washington /Seattle Children's Hospital and a research associate at the Fred Hutchinson Cancer Center in the [Schiffer](https://research.fredhutch.org/schiffer/en.html) and [Bedford](https://bedford.io/) labs.
+My research sits at the intersection of genomic epidemiology, infectious disease modeling, and public health.
+I study the spread of viruses and other infectious diseases, and my goal is to better understand how pathogens evolve and adapt in response to public health interventions.
+My work currently is focused on respiratory viruses such as RSV and SARS-CoV-2, and I have previously investigated spatial disparities in health outcomes.
+Ultimately, my goal as a researcher is to use mathematics and statistics to improve the health of populations, and I am excited to collaborate on projects towards the goal.
+
+This site houses much of my research and papers, with links to code where available.
+Open and reproducible research is very important to me, so please reach out if there are any questions regarding my methods or code.
+My blog [*ρ = 0*](blog/index.qmd) carries posts regarding data science, statistics, and medicine, that may be *"uncorrelated"* to my research.
+Expect anything there, from cool papers I am excited about to using regression models to vent about the Chicago Bulls.
+Feel free to email me if you have any questions about my work or ideas for collaboration.
+
+## Training
+- **Fellowship** (Pediatric Infectious Diseases) - University of Washington / Seattle Children's Hospital
+- **Residency** (Pediatrics) — University of Washington / Seattle Children's Hospital
+- **MD PhD** (Public and Community Health) — Medical College of Wisconsin, Medical Scientist Training Program

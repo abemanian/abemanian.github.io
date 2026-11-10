@@ -1,0 +1,9 @@
+# Defaults applied to every blog post
+author: "Amin Bemanian"
+freeze: true
+title-block-banner: true
+execute:
+  echo: true
+  warning: false
+  message: false
+code-fold: show

@@ -1,0 +1,21 @@
+---
+title: "Welcome to ρ = 0"
+date: 2026-11-07
+categories: [news]
+description: "The blog has moved from WordPress to a Quarto site."
+draft: false
+---
+
+This blog is moving here from WordPress. Future posts will mix research findings, data visualization, and the occasional uncorrelated tangent.
+
+Posts can contain live R code. A chunk like the one below runs when the post is rendered, and its output is cached so it doesn't rerun unless the post changes:
+
+```r
+library(ggplot2)
+
+ggplot(mtcars, aes(wt, mpg)) +
+  geom_point(colour = "#970909") +
+  theme_minimal()
+```
+
+(Write it as `{r}` instead of `r` after the backticks to make it execute.)

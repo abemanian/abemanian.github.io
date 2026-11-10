@@ -1,0 +1,36 @@
+/*-- scss:defaults --*/
+// Carries over the colors and type of the original ρ = 0 site.
+$rho-red: rgb(151, 9, 9);
+$rho-red-light: rgb(225, 100, 100);
+
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@0,400;0,600;1,400;1,600&family=Source+Sans+3:wght@400;600&display=swap');
+
+$primary: $rho-red;
+$link-color: $rho-red;
+$link-hover-color: $rho-red-light;
+$font-family-sans-serif: "Source Sans 3", Helvetica, Arial, sans-serif;
+$headings-font-family: "Vollkorn", Georgia, serif;
+$navbar-bg: #ffffff;
+$navbar-fg: #222222;
+$navbar-hl: $rho-red;
+$footer-bg: #ffffff;
+
+/*-- scss:rules --*/
+.navbar-brand .navbar-title {
+  font-family: "Vollkorn", Georgia, serif;
+  font-style: italic;
+  font-size: 1.6rem;
+  color: $rho-red;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+}
+
+.quarto-title h1.title {
+  font-style: italic;
+}
+
+.navbar {
+  border-bottom: 1px solid #eee;
+}
